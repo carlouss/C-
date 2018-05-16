@@ -1,0 +1,8 @@
+D:\2ºMOD\DS1\Calculadora2_WinForm\Calculadora2_WinForm\bin\Debug\Calculadora2_WinForm.exe
+D:\2ºMOD\DS1\Calculadora2_WinForm\Calculadora2_WinForm\bin\Debug\Calculadora2_WinForm.pdb
+D:\2ºMOD\DS1\Calculadora2_WinForm\Calculadora2_WinForm\obj\x86\Debug\Calculadora.frmCalc.resources
+D:\2ºMOD\DS1\Calculadora2_WinForm\Calculadora2_WinForm\obj\x86\Debug\Calculadora.Properties.Resources.resources
+D:\2ºMOD\DS1\Calculadora2_WinForm\Calculadora2_WinForm\obj\x86\Debug\Calculadora2_WinForm.csproj.GenerateResource.Cache
+D:\2ºMOD\DS1\Calculadora2_WinForm\Calculadora2_WinForm\obj\x86\Debug\Calculadora2_WinForm.exe
+D:\2ºMOD\DS1\Calculadora2_WinForm\Calculadora2_WinForm\obj\x86\Debug\Calculadora2_WinForm.pdb
+D:\2ºMOD\DS1\Calculadora2_WinForm\Calculadora2_WinForm\obj\x86\Debug\Calculadora2_WinForm.csprojResolveAssemblyReference.cache

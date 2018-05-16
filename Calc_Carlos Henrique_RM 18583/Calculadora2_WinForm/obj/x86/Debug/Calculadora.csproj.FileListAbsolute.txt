@@ -1,0 +1,19 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\Calculadora\obj\x86\Debug\Calculadora.frmCalc.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Calculadora\obj\x86\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\Calculadora\obj\x86\Debug\Calculadora.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\Calculadora\obj\x86\Debug\Calculadora.pdb
+D:\2ºMOD\DS1\Calculadora2_WinForm\Calculadora2_WinForm\obj\x86\Debug\Calculadora2_WinForm.exe
+D:\2ºMOD\DS1\Calculadora2_WinForm\Calculadora2_WinForm\obj\x86\Debug\Calculadora2_WinForm.pdb
+C:\Users\Aluno\Desktop\Calc_Carlos Henrique_RM 18583\Calculadora2_WinForm\obj\x86\Debug\Calculadora2_WinForm.exe
+C:\Users\Aluno\Desktop\Calc_Carlos Henrique_RM 18583\Calculadora2_WinForm\obj\x86\Debug\Calculadora2_WinForm.pdb
+C:\Users\Aluno\Desktop\Calc_Carlos Henrique_RM 18583\Calculadora2_WinForm\bin\Debug\Calculadora2_WinForm.exe
+C:\Users\Aluno\Desktop\Calc_Carlos Henrique_RM 18583\Calculadora2_WinForm\bin\Debug\Calculadora2_WinForm.pdb
+C:\Users\Aluno\Desktop\Calc_Carlos Henrique_RM 18583\Calculadora2_WinForm\obj\x86\Debug\Calculadora.frmCalc.resources
+C:\Users\Aluno\Desktop\Calc_Carlos Henrique_RM 18583\Calculadora2_WinForm\obj\x86\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Calc_Carlos Henrique_RM 18583\Calculadora2_WinForm\obj\x86\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Calc_Carlos Henrique_RM 18583\Calculadora2_WinForm\obj\x86\Debug\Calculadora.csprojResolveAssemblyReference.cache
+D:\Calc_Carlos Henrique_RM 18583\Calculadora2_WinForm\obj\x86\Debug\Calculadora2_WinForm.exe
+D:\Calc_Carlos Henrique_RM 18583\Calculadora2_WinForm\obj\x86\Debug\Calculadora2_WinForm.pdb
