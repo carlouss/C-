@@ -1,0 +1,10 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\FORM1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\FORM1\obj\x86\Debug\FORM1.frmMenu.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\FORM1\obj\x86\Debug\FORM1.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\FORM1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Aluno\AppData\Local\Temporary Projects\FORM1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Aluno\AppData\Local\Temporary Projects\FORM1\bin\Debug\FORM1.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\FORM1\bin\Debug\FORM1.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\FORM1\obj\x86\Debug\FORM1.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\FORM1\obj\x86\Debug\FORM1.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\FORM1\obj\x86\Debug\FORM1.frmTeste1.resources
