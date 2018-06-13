@@ -1,0 +1,24 @@
+D:\Exercicios DS\Exercicios DS\obj\x86\Debug\WindowsFormsApplication1.Ex01.resources
+D:\Exercicios DS\Exercicios DS\obj\x86\Debug\WindowsFormsApplication1.Ex02.resources
+D:\Exercicios DS\Exercicios DS\obj\x86\Debug\WindowsFormsApplication1.Ex03.resources
+D:\Exercicios DS\Exercicios DS\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+D:\Exercicios DS\Exercicios DS\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Exercicios DS\Exercicios DS\obj\x86\Debug\Exercicios DS.csproj.GenerateResource.Cache
+D:\Exercicios DS\Exercicios DS\bin\Debug\Exercicios DS.exe
+D:\Exercicios DS\Exercicios DS\bin\Debug\Exercicios DS.pdb
+D:\Exercicios DS\Exercicios DS\obj\x86\Debug\Exercicios DS.exe
+D:\Exercicios DS\Exercicios DS\obj\x86\Debug\Exercicios DS.pdb
+C:\Users\Aluno\Desktop\Exercicios DS\Exercicios DS\obj\x86\Debug\Exercicios DS.exe
+C:\Users\Aluno\Desktop\Exercicios DS\Exercicios DS\obj\x86\Debug\Exercicios DS.pdb
+C:\Users\Aluno\Desktop\Exercicios DS\Exercicios DS\bin\Debug\Exercicios DS.exe
+C:\Users\Aluno\Desktop\Exercicios DS\Exercicios DS\bin\Debug\Exercicios DS.pdb
+C:\Users\Aluno\Desktop\Exercicios DS\Exercicios DS\obj\x86\Debug\WindowsFormsApplication1.Ex01.resources
+C:\Users\Aluno\Desktop\Exercicios DS\Exercicios DS\obj\x86\Debug\WindowsFormsApplication1.Ex02.resources
+C:\Users\Aluno\Desktop\Exercicios DS\Exercicios DS\obj\x86\Debug\WindowsFormsApplication1.Ex03.resources
+C:\Users\Aluno\Desktop\Exercicios DS\Exercicios DS\obj\x86\Debug\WindowsFormsApplication1.Ex04.resources
+C:\Users\Aluno\Desktop\Exercicios DS\Exercicios DS\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Aluno\Desktop\Exercicios DS\Exercicios DS\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Exercicios DS\Exercicios DS\obj\x86\Debug\Exercicios DS.csproj.GenerateResource.Cache
+C:\Users\Aluno\Desktop\Exercicios DS\Exercicios DS\obj\x86\Debug\WindowsFormsApplication1.Ex05.resources
+C:\Users\Aluno\Desktop\Exercicios DS\Exercicios DS\obj\x86\Debug\WindowsFormsApplication1.Ex06.resources
+C:\Users\Aluno\Desktop\Exercicios DS\Exercicios DS\obj\x86\Debug\WindowsFormsApplication1.Ex07.resources
